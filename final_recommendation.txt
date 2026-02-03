@@ -1,0 +1,6 @@
+Business Recommendation
+A/B Testing Conclusion:
+- The treatment group shows a higher conversion rate compared to the control group.
+- The p-value obtained from the t-test is too small compared to alpha(0.05)that indicates whether this difference is statistically significant.
+Business Recommendation:
+- If statistically significant, the treatment version should be implemented to improve conversion and business performance.
